@@ -3,6 +3,14 @@ package com.taogl.create.prototype;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * PrototypeMain
+ *
+ * @description 原型模式main函数
+ * @author taogl
+ * @date 2019/7/8 10:41
+ * @version v1.0.0
+ **/
 public class PrototypeMain {
     public static void main(String[] args) {
         shallowCopy();
